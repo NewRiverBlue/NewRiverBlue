@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![NewRiverBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewRiverBlue&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
+![NewRiverBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewRiverBlue&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewRiverBlue&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/NewRiverBlue/github-readme-stats)
 
